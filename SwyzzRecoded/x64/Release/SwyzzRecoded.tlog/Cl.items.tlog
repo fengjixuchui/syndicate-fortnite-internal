@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\Syndicate Recoded\dllmain.cpp;C:\Users\admin\Desktop\Syndicate Recoded\SwyzzRecoded\x64\Release\dllmain.obj
+C:\Users\admin\Desktop\Syndicate Recoded\Game\Core\Core.cpp;C:\Users\admin\Desktop\Syndicate Recoded\SwyzzRecoded\x64\Release\Core.obj
+C:\Users\admin\Desktop\Syndicate Recoded\Game\DrawTransistion\DrawTransistion.cpp;C:\Users\admin\Desktop\Syndicate Recoded\SwyzzRecoded\x64\Release\DrawTransistion.obj
+C:\Users\admin\Desktop\Syndicate Recoded\Game\DrawTransistion\GUI\GUI.cpp;C:\Users\admin\Desktop\Syndicate Recoded\SwyzzRecoded\x64\Release\GUI.obj
+C:\Users\admin\Desktop\Syndicate Recoded\Game\Functions\Functions.cpp;C:\Users\admin\Desktop\Syndicate Recoded\SwyzzRecoded\x64\Release\Functions.obj
+C:\Users\admin\Desktop\Syndicate Recoded\Game\SDK\SDK.cpp;C:\Users\admin\Desktop\Syndicate Recoded\SwyzzRecoded\x64\Release\SDK.obj
+C:\Users\admin\Desktop\Syndicate Recoded\System\CRT\mincrt.cpp;C:\Users\admin\Desktop\Syndicate Recoded\SwyzzRecoded\x64\Release\mincrt.obj
+C:\Users\admin\Desktop\Syndicate Recoded\System\DrvUtil\DriverUtil.cpp;C:\Users\admin\Desktop\Syndicate Recoded\SwyzzRecoded\x64\Release\DriverUtil.obj
+C:\Users\admin\Desktop\Syndicate Recoded\System\Hook\Hook.cpp;C:\Users\admin\Desktop\Syndicate Recoded\SwyzzRecoded\x64\Release\Hook.obj
+C:\Users\admin\Desktop\Syndicate Recoded\System\OffsetFinder\OffsetFinder.cpp;C:\Users\admin\Desktop\Syndicate Recoded\SwyzzRecoded\x64\Release\OffsetFinder.obj
+C:\Users\admin\Desktop\Syndicate Recoded\System\Scanner\Scanner.cpp;C:\Users\admin\Desktop\Syndicate Recoded\SwyzzRecoded\x64\Release\Scanner.obj

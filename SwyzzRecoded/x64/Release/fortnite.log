@@ -1,0 +1,40 @@
+﻿  dllmain.cpp
+  Core.cpp
+  DrawTransistion.cpp
+  GUI.cpp
+  Functions.cpp
+  SDK.cpp
+  mincrt.cpp
+  DriverUtil.cpp
+  Hook.cpp
+  OffsetFinder.cpp
+  Scanner.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\vector(829,9): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc
+  (compiling source file 'Game/DrawTransistion/GUI/GUI.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\vector(829,9):
+      the template instantiation context (the oldest one first) is
+          C:\Users\admin\Desktop\Syndicate Recoded\Globals\Globals.hpp(15,31):
+          see reference to class template instantiation 'std::vector<uint64_t,std::allocator<uint64_t>>' being compiled
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\vector(866,23):
+          while compiling class template member function 'void std::vector<uint64_t,std::allocator<uint64_t>>::push_back(const _Ty &)'
+          with
+          [
+              _Ty=uint64_t
+          ]
+              C:\Users\admin\Desktop\Syndicate Recoded\Game\DrawTransistion\GUI\GUI.cpp(41,41):
+              see the first reference to 'std::vector<uint64_t,std::allocator<uint64_t>>::push_back' in 'GUI::UpdateSkins'
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\vector(867,9):
+          see reference to function template instantiation '_Ty &std::vector<_Ty,std::allocator<_Ty>>::_Emplace_one_at_back<const _Ty&>(const _Ty &)' being compiled
+          with
+          [
+              _Ty=uint64_t
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\vector(779,17):
+          see reference to function template instantiation 'unsigned __int64 *std::vector<uint64_t,std::allocator<uint64_t>>::_Emplace_reallocate<const _Ty&>(unsigned __int64 *const ,const _Ty &)' being compiled
+          with
+          [
+              _Ty=uint64_t
+          ]
+  
+     Creating library ../RzChromaSDK64.lib and object ../RzChromaSDK64.exp
+  fortnite.vcxproj -> C:\Users\admin\Desktop\RzChromaSDK64.dll

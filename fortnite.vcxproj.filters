@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="Globals\Globals.hpp">
+      <Filter>Globals</Filter>
+    </ClInclude>
+    <ClInclude Include="Settings\Settings.h">
+      <Filter>Settings</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\DrawTransistion\DrawTransistion.h">
+      <Filter>Game\DrawTransition</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\Core\Core.h">
+      <Filter>Game\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\SDK\Structs\structs.h">
+      <Filter>Game\SDK\Structs</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\SDK\SDK.h">
+      <Filter>Game\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="System\CRT\mincrt.h">
+      <Filter>system\CRT</Filter>
+    </ClInclude>
+    <ClInclude Include="System\Hook\Hook.h">
+      <Filter>system\Hook</Filter>
+    </ClInclude>
+    <ClInclude Include="System\importer\lazy_importer.h">
+      <Filter>system\Importer</Filter>
+    </ClInclude>
+    <ClInclude Include="System\Scanner\Scanner.h">
+      <Filter>system\Scanner</Filter>
+    </ClInclude>
+    <ClInclude Include="System\xor\xor.h">
+      <Filter>system\xor</Filter>
+    </ClInclude>
+    <ClInclude Include="System\xor\xor_data.h">
+      <Filter>system\xor</Filter>
+    </ClInclude>
+    <ClInclude Include="System\xor\xor_value.h">
+      <Filter>system\xor</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\DrawTransistion\GUI\GUI.h">
+      <Filter>Game\DrawTransition\Gui</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\Functions\Functions.h">
+      <Filter>Game\Functions</Filter>
+    </ClInclude>
+    <ClInclude Include="Settings\Config.h">
+      <Filter>Settings</Filter>
+    </ClInclude>
+    <ClInclude Include="System\spoofer\Spoof.h">
+      <Filter>system\spoofer</Filter>
+    </ClInclude>
+    <ClInclude Include="System\DrvUtil\DriverUtil.h">
+      <Filter>system\DrvUtil</Filter>
+    </ClInclude>
+    <ClInclude Include="System\OffsetFinder\OffsetFinder.h">
+      <Filter>system\OffsetFinder</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="system">
+      <UniqueIdentifier>{8954fd9c-3eba-4931-9766-5cb04375f570}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="system\xor">
+      <UniqueIdentifier>{271797d2-4999-4789-8e56-acd6b41453c0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="system\Scanner">
+      <UniqueIdentifier>{6d0a7c25-30d1-463b-9433-d1562191bb3a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="system\CRT">
+      <UniqueIdentifier>{40236c4e-4a41-4b48-b572-3cedd2c183f2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Globals">
+      <UniqueIdentifier>{bda70024-9b76-4bfe-8272-9b02aff8c678}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="system\Importer">
+      <UniqueIdentifier>{3ad48cb2-8220-4088-97e9-e3c2f84aba91}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="system\Hook">
+      <UniqueIdentifier>{2ef290ea-8b64-479d-b3b6-010647ab5ddf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Settings">
+      <UniqueIdentifier>{c3517284-5df9-415b-ba9c-fbce1b6f58f3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game">
+      <UniqueIdentifier>{c5ea0939-080e-4c8e-ba2b-c09c1ee14ed1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\Core">
+      <UniqueIdentifier>{89b19ba7-fae0-472e-bab9-e57151ff7703}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\DrawTransition">
+      <UniqueIdentifier>{f38ce74d-ce03-4140-967c-85214740f646}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\DrawTransition\Gui">
+      <UniqueIdentifier>{a6f1cc62-fd95-4e2f-b6e4-36aab0d56c98}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\SDK">
+      <UniqueIdentifier>{3ccd4372-edc3-48ba-b6e9-4b658ef0e514}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\SDK\Structs">
+      <UniqueIdentifier>{65157d9e-8453-4af6-9c70-2117d68f12c4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\Functions">
+      <UniqueIdentifier>{c2ac1aed-ce74-43bb-a204-9e05fb934c7a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="system\spoofer">
+      <UniqueIdentifier>{74d4b3e7-ffba-4cbc-9de3-e19646b5217b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="system\DrvUtil">
+      <UniqueIdentifier>{b5be88d0-8ae3-42e7-8754-c926330eef64}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="system\OffsetFinder">
+      <UniqueIdentifier>{0f9517c6-cab4-4551-9ee8-87c4b2752038}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Game\DrawTransistion\DrawTransistion.cpp">
+      <Filter>Game\DrawTransition</Filter>
+    </ClCompile>
+    <ClCompile Include="Game\Core\Core.cpp">
+      <Filter>Game\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="Game\SDK\SDK.cpp">
+      <Filter>Game\SDK</Filter>
+    </ClCompile>
+    <ClCompile Include="System\CRT\mincrt.cpp">
+      <Filter>system\CRT</Filter>
+    </ClCompile>
+    <ClCompile Include="System\Hook\Hook.cpp">
+      <Filter>system\Hook</Filter>
+    </ClCompile>
+    <ClCompile Include="System\Scanner\Scanner.cpp">
+      <Filter>system\Scanner</Filter>
+    </ClCompile>
+    <ClCompile Include="Game\DrawTransistion\GUI\GUI.cpp">
+      <Filter>Game\DrawTransition\Gui</Filter>
+    </ClCompile>
+    <ClCompile Include="Game\Functions\Functions.cpp">
+      <Filter>Game\Functions</Filter>
+    </ClCompile>
+    <ClCompile Include="dllmain.cpp">
+      <Filter>system</Filter>
+    </ClCompile>
+    <ClCompile Include="System\DrvUtil\DriverUtil.cpp">
+      <Filter>system\DrvUtil</Filter>
+    </ClCompile>
+    <ClCompile Include="System\OffsetFinder\OffsetFinder.cpp">
+      <Filter>system\OffsetFinder</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
